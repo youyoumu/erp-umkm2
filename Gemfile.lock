@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/skryukov/typelizer.git
-  revision: aea764b4fc7f5c6a524f754a0eec572f9d17b8f6
+  revision: 890138afaed0f66f4892486b9dd366054038ce88
   branch: main
   specs:
     typelizer (0.1.5)
@@ -173,7 +173,7 @@ GEM
     marcel (1.0.4)
     matrix (0.4.2)
     mini_mime (1.1.5)
-    minitest (5.25.1)
+    minitest (5.25.2)
     msgpack (1.7.5)
     net-imap (0.5.1)
       date
@@ -262,7 +262,7 @@ GEM
       zeitwerk (~> 2.6)
     rainbow (3.1.1)
     rake (13.2.1)
-    rdoc (6.7.0)
+    rdoc (6.8.1)
       psych (>= 4.0.0)
     regexp_parser (2.9.2)
     reline (0.5.11)
